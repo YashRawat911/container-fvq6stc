@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "YashRawat911",
+  "repo": "container-fvq6stc",
+  "name": "YashRawat911",
+  "email": "911t.empm.ail@gmail.com",
+}
